@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: 'Suggest an idea or improvement for the ExpView mod'
+title: '[FEATURE] '
+labels: 'enhancement'
 assignees: ''
 
 ---
