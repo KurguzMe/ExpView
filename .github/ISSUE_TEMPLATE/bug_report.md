@@ -1,8 +1,8 @@
 ---
-name: 'Bug report'
-about: 'Report a bug in the ExpView mod to help improve it'
-title: '[BUG]'
-labels: 'bug'
+name: Bug report
+about: Report a bug in the ExpView mod to help improve it
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---
