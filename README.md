@@ -16,3 +16,7 @@ If you encounter issues, the game crashes, or you want to suggest a new feature:
 3. Select the appropriate template (Bug Report) and fill out the form following the instructions.
 
 *You can also attach log files (`latest.log`) when reporting game crashes!*
+
+<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/bee4bed4-6956-4d8e-bc23-6e8ad1c85784" />
+
+
