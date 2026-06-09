@@ -1,8 +1,4 @@
 # 👁️ ExpView
-
-[![Modrinth Downloads](https://shields.io)](https://modrinth.com/mod/expview)
-[![GitHub Issues](https://shields.io)](https://github.com/KurguzMe/ExpView/issues)
-
 **ExpView** — this is a lightweight, convenient Minecraft mod that adds an experience point counter to the screen and a menu where you can move the counter with the mouse and also convert experience.
 
 ---
