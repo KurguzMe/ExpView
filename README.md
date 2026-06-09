@@ -17,6 +17,7 @@ If you encounter issues, the game crashes, or you want to suggest a new feature:
 
 *You can also attach log files (`latest.log`) when reporting game crashes!*
 
-<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/bee4bed4-6956-4d8e-bc23-6e8ad1c85784" />
+<img width="237" height="133" alt="github" src="https://github.com/user-attachments/assets/8f05f696-7e4a-465e-be7a-1434bc8c9540" />
+
 
 
