@@ -11,7 +11,7 @@ The latest and most stable versions of the mod are always available on the offic
 
 ## 🐛 Found a bug or have an idea?? / Issues
 If you encounter issues, the game crashes, or you want to suggest a new feature:
-1. Go to the tab **[Issues](https://github.com/KurguzMe/ExpView)** at the top of this page.
+1. Go to the tab **[Issues](https://github.com/KurguzMe/ExpView/issues)** at the top of this page.
 2. Click the button **New Issue**.
 3. Select the appropriate template (Bug Report) and fill out the form following the instructions.
 
