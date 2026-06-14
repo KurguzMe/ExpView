@@ -6,6 +6,7 @@
 ## Download
 The latest and most stable versions of the mod are always available on the official page:
 * **[Download the mod on Modrinth](https://modrinth.com/mod/expview#download)**
+* **[Download the mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/expview)**
 
 ---
 
