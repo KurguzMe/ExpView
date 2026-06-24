@@ -18,5 +18,9 @@ If you encounter issues, the game crashes, or you want to suggest a new feature:
 
 *You can also attach log files (`latest.log`) when reporting game crashes!*
 
+## Support me
+Want to support my projects? Check out my Boosty!<br>
+- [Boosty](https://boosty.to/kurguz)
+
 
 
